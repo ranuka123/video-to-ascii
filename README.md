@@ -9,10 +9,9 @@ make
 - ffmpeg
 - ncurses
 - gcc
-</br>
-# Todo
-- sound support
-- support multiple resolutions
 ```
 Tested on OSX 10.8.4, gcc 4.9.2
 ```
+# Todo
+- sound support
+- support multiple resolutions
