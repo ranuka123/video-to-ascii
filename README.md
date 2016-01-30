@@ -9,6 +9,7 @@ make
 - ffmpeg
 - ncurses
 - gcc
+</br>
 # Todo
 - sound support
 - support multiple resolutions
