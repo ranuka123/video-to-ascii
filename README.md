@@ -4,7 +4,7 @@ A program that outputs video frames in ascii to terminal using the ffmpeg api
 make
 ./test video.avi
 ```
-![alt tag](https://github.com/snjt/video-to-ascii/blob/master/demo.gif)
+<img src="https://github.com/snjt/video-to-ascii/blob/master/demo.gif" width="200" height="200">
 # Dependencies
 - ffmpeg
 - ncurses
